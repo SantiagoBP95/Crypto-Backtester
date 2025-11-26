@@ -1,5 +1,4 @@
-"""Simple classifier training helper for the reorganized package.
-
+"""
 Provides a convenience function `train_and_save_model` that prepares
 features, trains a RandomForest and saves it using joblib. This module
 is intended for demo and educational purposes.
