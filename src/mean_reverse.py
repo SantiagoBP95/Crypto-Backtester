@@ -1,5 +1,4 @@
-"""Mean-reversion strategy for the reorganized package.
-
+"""
 This module computes Bollinger Bands and returns a simple entry signal
 based on price interactions with the bands. The function returns a
 boolean-like signal and the DataFrame of bands for plotting/inspection.
