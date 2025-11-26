@@ -1,7 +1,5 @@
-"""Indicators and plotting utilities for the reorganized package.
-
-This mirrors the root `metrics.py` functionality and provides helpers
-for computing indicators (MA, RSI, Bollinger Bands) and for plotting
+""" 
+Helpers for computing indicators (MA, RSI, Bollinger Bands) and for plotting
 results using Plotly. Functions are intended for exploratory analysis
 and visualization in the demo.
 """
