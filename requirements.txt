@@ -1,0 +1,8 @@
+pandas
+numpy
+python-binance
+plotly
+matplotlib
+scikit-learn
+joblib
+kaleido

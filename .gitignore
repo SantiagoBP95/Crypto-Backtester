@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+clasificador_binario.joblib
+/.ipynb_checkpoints
