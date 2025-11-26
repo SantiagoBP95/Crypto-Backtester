@@ -1,5 +1,4 @@
-"""Fetch utilities for the reorganized package.
-
+"""
 This module mirrors the root-level `get_binance_data` implementation but
 is intended to be used from the `trading_project/src` package. It returns
 a pandas DataFrame with numeric OHLCV columns and a datetime index.
