@@ -1,5 +1,4 @@
-"""Momentum strategy implementation for the reorganized package.
-
+"""
 Uses MA crossovers and RSI thresholds to produce simple trade signals.
 """
 
