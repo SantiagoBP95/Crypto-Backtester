@@ -1,5 +1,4 @@
-"""Simple backtesting utilities for the reorganized package.
-
+"""
 This module provides a lightweight backtesting flow used by the demo
 runner. It intentionally keeps execution semantics simple: sequential
 processing of signals, fixed contract size and no slippage/commissions.
